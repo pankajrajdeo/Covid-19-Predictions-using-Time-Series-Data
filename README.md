@@ -2,7 +2,7 @@
 
 This project generated global time series forecast data of the COVID-19 pandemic
 
-A publicly available real-time Covid-19 dataset was used (https://github.com/datasets/covid-19/tree/main/data)
+A publicly available Covid-19 dataset (dated 11 Nov, 2021) was used (https://github.com/datasets/covid-19/tree/main/data)
 
 a) Dataset insights were represented with the help of graphs using Matplotlib
 ![This is an image](https://github.com/pankajrajdeo/Covid-19-Predictions-using-Time-Series-Data/blob/main/Images/a.png)
